@@ -4,4 +4,4 @@ Hey there, I love to create. I have created various projects in various language
 
 -Tarush
 
-[Here is a test link](https://github.com/tvig2/tvig2.github.io/blob/master/test.zip)
+[Here is a test link](https://raw.githubusercontent.com/tvig2/tvig2.github.io/master/test.zip)
