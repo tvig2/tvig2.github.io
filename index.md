@@ -5,3 +5,12 @@ Hey there, I love to create. I have created various projects in various language
 -Tarush
 
 [Here is a test link](https://raw.githubusercontent.com/tvig2/tvig2.github.io/master/test.zip)
+
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
+</p>
